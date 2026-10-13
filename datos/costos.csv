@@ -1,0 +1,11 @@
+componente,cantidad,precio_unitario_clp,total_clp,fuente
+ESP32 DevKit + shield,1,,,
+Puente H L298N,1,,,
+Chasis + motores DC + ruedas,1,,,
+Servo de direccion,1,,,
+Micro servo de barrido + soporte,1,,,
+Sensor HC-SR04,3,,,
+Bateria 18650,4,,,
+Portapilas 2x18650,2,,,
+Cargador 18650,1,,,
+Cables Dupont / resistencias / interruptores,1,,,

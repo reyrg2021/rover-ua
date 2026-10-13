@@ -1,0 +1,14 @@
+# Android
+app-android/.gradle/
+app-android/build/
+app-android/app/build/
+app-android/local.properties
+app-android/.idea/
+app-android/*.iml
+app-android/app/*.iml
+app-android/.kotlin/
+# Sistema
+.DS_Store
+Thumbs.db
+# Datos crudos grandes
+datos/videos/
